@@ -6,7 +6,7 @@ import Netflix from "../assets/sosmed/Netflix.svg";
 import Reddit from "../assets/sosmed/Reddit.svg";
 import Spotify from "../assets/sosmed/Spotify.svg";
 import TitleDesc from "./Title";
-//!s
+//!ss
 const Testimonials = () => {
   const icons = [Netflix, Reddit, Amazon, Discord, Spotify];
   return (
