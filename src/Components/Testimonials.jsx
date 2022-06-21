@@ -22,7 +22,7 @@ const Testimonials = () => {
           <img
             src={HugeGlobal}
             alt="Huge global"
-            className="w-[66rem] h-[33rem]"
+            className="w-[66rem]  h-[33rem]"
           ></img>
         </div>
 
