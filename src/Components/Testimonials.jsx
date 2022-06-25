@@ -17,7 +17,7 @@ const Testimonials = () => {
          
           locations.`}
       />
-      <div className=" flex flex-col items-center mt-40">
+      <div className=" flex flex-col items-center mt-40 ">
         <div className="mt-26">
           <img
             src={HugeGlobal}

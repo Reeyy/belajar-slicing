@@ -30,7 +30,7 @@ const About = () => {
 
   return (
     <div id="About" className="scroll-smooth">
-      <main className=" max-w-5xl  container  mx-auto font-Rubik ">
+      <main className=" max-w-5xl container  mx-auto font-Rubik ">
         <div className="grid grid-cols-2">
           <div className="pt-52">
             <h1 className="text-4xl font-bold pb-5">

@@ -16,8 +16,6 @@ function App() {
         <Testimonials />
         <Review />
       </div>
-
-      <div className="mt-96"></div>
     </div>
   );
 }
